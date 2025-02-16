@@ -25,8 +25,6 @@ The goal is to predict trip durations using various regression models.
 Click below to open the Jupyter Notebook in **Google Colab**:  
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YourUsername/YourRepoName/blob/main/Assignment1.ipynb)
 
-## 📄 Report
-For a detailed explanation, check **[report.pdf]([./report.pdf](https://github.com/kainat5008/ML-Assignment-01/blob/main/Report.pdf))**.
 
 ## 📂 Files in This Repo:
 - `Assignment1.ipynb` → Main Notebook  
